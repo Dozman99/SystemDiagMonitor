@@ -24,4 +24,7 @@ following:
 
 - Network interfaces and their states
 
-The script extracts key details about the changes to the computer system such as listed above and adds them to an ever-growing log file; the log file consists of easily readable key details following conventional log patterns.
+Highlights
+The script extracts key details about the changes to the computer system such as listed above and adds them to an ever-growing log file.
+The log file consists of easily readable key details following conventional log patterns.
+Did not have to do any SUDO install: This was achived using only common pre-installed command line tools and did not rely on additional programs / tools / libraries /.
