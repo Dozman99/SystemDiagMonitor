@@ -1,5 +1,4 @@
-
-##SysMonitor##
+# SysMonitor
 
 Here  is a sample GNU/Linux bash script that monitors a computer system and user activity **regularly** and **logs** key information. The script “SysMonitor.sh” automatically and regularly writes to a log file “SysMonitor.log”.
 
@@ -15,7 +14,7 @@ following:
 
 - Devices plugged in (e.g. USB)
 
-- Disk usage
+- Disk usage:
 
 
     - Overall disk usage
